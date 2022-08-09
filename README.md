@@ -1,5 +1,7 @@
 # open_whatsapp
 
+## Open number in whatsapp without saving contact.
+
 A new Flutter project.
 
 ## Getting Started
